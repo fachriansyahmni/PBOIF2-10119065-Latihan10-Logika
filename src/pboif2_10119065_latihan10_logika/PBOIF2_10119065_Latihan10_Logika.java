@@ -1,3 +1,4 @@
+package pboif2_10119065_latihan10_logika;
 /*
  * @author
  * NAMA                 : Fachriansyah Muhammad Nur Ihsan
@@ -6,7 +7,6 @@
  * Deskripsi Program    : Program ini menampilkan hasil logika
  *
  */
-package pboif2_10119065_latihan10_logika;
 public class PBOIF2_10119065_Latihan10_Logika {
     
     public static void main(String[] args) {
